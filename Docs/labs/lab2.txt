@@ -1,0 +1,5 @@
+Actor: teacher
+Use-cases:
+1) register;
+2) login/logout
+3) create class
