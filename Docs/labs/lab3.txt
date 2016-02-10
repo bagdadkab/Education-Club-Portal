@@ -1,0 +1,12 @@
+1) Example #1
+NST Team
+1. ordering of the transitions: chat #4  than new event #7 settings chat screen #9;
+2. where does sharing lists window come from?!;
+3. screen #12 button “Ok” what does it do?;
+4. sharing list window confusing;
+
+2) Two benefits of doing A2 screens:
+1.VSUALIZATION!!!
+We are working in team, and we have different views on how should look our project. That is why to come to a consensus we need to build our prototype;
+2.To Avoid “narrow” points of our project 
+to make sure that UI is obvious, and demonstrate all use cases belonging to all the actors.  
